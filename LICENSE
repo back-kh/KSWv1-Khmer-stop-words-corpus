@@ -2,6 +2,25 @@ MIT License
 
 Copyright (c) 2021 Thuonnimol
 
+Khmer stop-words corpus V1.0 (2017)
+~~~~~~~~~~~~~~~~~~~~~~
+Creative commons (CC): Credit to authors
+
+Authors:
+1. Mr. THUON Nimol, thuonnimol1@gmail.com
+2. Dr. CHHUN Sophea, sopheachhun@gmail.com
+
+~~~~~~~~~~~~~~~~~~~~~~
+There are 3 files in this folder:
+1. English-stopwords-original-316 words.xlsx : original English stop words that we choose.
+2. khmer stopwords-translated from English corpus-324.xlsx: Khmer stopwords that are directly translated from English corpus.
+3. khmer stopwords-corpus-385.xlsx: Khmer stopwords that are directly translated from English corpus and manually added based on our experimentation.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Acknowledgment: Authors would like to express deep thanks to ARES CCD who sponsored the research project called 
+		“Khmer Semantic Search Engine”, which produced Khmer stop-words corpus as an output of the project.  
+
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
